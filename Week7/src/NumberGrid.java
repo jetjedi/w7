@@ -37,7 +37,7 @@ public class NumberGrid extends Application{
 		Scene scene = new Scene(pane);
 		primaryStage.setTitle("Number Grid");
 		primaryStage.setScene(scene);
-		primaryStage.show();
+		primaryStage.show(); 
 		
 	}
 	
